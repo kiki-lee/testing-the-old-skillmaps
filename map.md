@@ -2,6 +2,7 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * infoUrl: skillmap/educator-info/int-map-info
+* bannerUrl: /static/skillmap/platformer/activity4.png
 * backgroundurl: /static/skillmap/space/game-maker-guide-background.png
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
@@ -76,6 +77,7 @@
 * name: Congrats!
 * kind: completion
 * type: certificate
+* imageUrl: /static/skillmap/certificates/space-cert.png
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 
 
