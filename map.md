@@ -120,7 +120,7 @@
 * url: /skillmap/platformer/activity3
 * imageUrl: /static/skillmap/platformer/activity3.png
 * tags: intermediate, overlaps
-* next: platformer-activity4
+* next: pusher3, platformer-activity4
 
 ### platformer-activity4
 
@@ -147,3 +147,8 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+
+
+### pusher3
+* name: Blank node
+* kind: layout
