@@ -78,7 +78,7 @@
 * kind: completion
 * type: certificate
 * imageUrl: /static/skillmap/certificates/space-cert.png
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* url: /static/skillmap/certificates/design-a-space-explorer.pdf
 
 
 ### pusher1
@@ -148,7 +148,9 @@
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
+* imageUrl: /static/skillmap/certificates/platformer-cert.png
+
 
 
 ### pusher3
