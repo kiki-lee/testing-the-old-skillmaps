@@ -34,7 +34,7 @@
 * type: tutorial
 * description: Draw and code a spaceship!
 * tags: easy
-* next: space-activity2
+* next: space-activity2, pusher1
 
 * url: /skillmap/space/activity1
 * imageUrl: /static/skillmap/space/activity1.png
@@ -45,7 +45,7 @@
 * type: tutorial
 * description: Customize your ship with projectiles and effects.
 * tags: easy, projectiles, kinds
-* next: space-activity3
+* next: pusher2, space-activity3
 
 * url: /skillmap/space/activity2
 * imageUrl: /static/skillmap/space/activity2.png
@@ -77,6 +77,15 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+
+
+### pusher1
+* name: Blank node
+* kind: layout
+
+### pusher2
+* name: Blank node
+* kind: layout
 
 
 ## platformer
