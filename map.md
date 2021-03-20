@@ -148,8 +148,9 @@
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
 * imageUrl: /static/skillmap/certificates/platformer-cert.png
+* url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
+
 
 
 
