@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "map.md"
+        "map.md",
+        "oldJunk-intermediate.ts"
     ],
     "testFiles": [
         "test.ts"
